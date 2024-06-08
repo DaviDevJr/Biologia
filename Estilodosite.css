@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(215, 239, 255, 0.856);
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    text-align: justify;
+}
+h1{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+ul{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+    background-color: rgba(149, 195, 226, 0.856);
+    border-radius: 200px;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-style: italic;
+    text-align: center;
+    border-radius: 200px;
+    background-color: rgba(157, 196, 223, 0.856);
+}
+a{
+    color: rgb(83, 129, 182);
+}
+a:hover{
+    background-color: aqua;
+}
+a:active{
+    color: rgb(163, 113, 209);
+}
+details{
+    background-color: rgba(149, 195, 226, 0.856);
+    border-radius: 200px;
+}
+summary{
+    list-style-type: '\23E9';
+    /*EMOJI CÓDIGO HEXADECIMAL*/;
+}
+
+
